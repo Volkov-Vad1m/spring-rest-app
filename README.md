@@ -9,6 +9,6 @@ mvn clean package && java -jar target/rest-service-initial-0.0.1-SNAPSHOT.jar
 ```sh
 {
 "id":1,
-"content":"Hello, World!"
+"content":"Hello, someName!"
 }
 ```
